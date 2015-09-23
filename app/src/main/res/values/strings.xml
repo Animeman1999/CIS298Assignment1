@@ -3,4 +3,13 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Count_text">0</string>
+    <string name="add_one_button">+</string>
+    <string name="subtract_one_button">-</string>
+    <string name="toast_message">"Too many people! You have to kick someone out before adding more!"</string>
+    <string name="Negative_Toast_Message">"Someone has to be in the room before they can leave!</string>
+    <string name="Title_Text">"
+                Counter for
+   Maximum People Allowed
+               Per Fire Code"</string>
 </resources>

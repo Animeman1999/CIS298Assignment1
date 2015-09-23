@@ -25,6 +25,8 @@ The focus with this application should be getting familiar with Android Studio a
 
 ## Outside Resources Used
 
+How to place a string into Android used http://android4beginners.com/2013/06/lesson-1-3-how-to-modify-textview-in-java-code-findviewbyid-settext-and-gettext-methods/
+
 ## Known Problems, Issues, And/Or Errors in the Program
 
 
